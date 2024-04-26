@@ -5,4 +5,4 @@ let b = parseInt(prompt("Enter Second value"))
 let a1 = a*2
 let ans = a1+b 
 
-alert("Fincal result : " + ans)
+alert("The final result is: " + ans)
